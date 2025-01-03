@@ -11,9 +11,7 @@ This is a simple slot machine game played inside the Terminal where the user can
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -43,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-While working through this project, some of my major learnings were defining my own functions where each one played an essential component in how the game represented slots. By implementing dictionaries that contained key value pairs of symbol letters and values, I was able to utilize and apply them to the rows and columns of the slots. With the random library included, I was able to mimic the randomness that slots produce when they are spun each time.
+While working through this project, some of my major learnings were defining my own functions where each one played an essential component in how the game represented slots. By implementing dictionaries that contained key-value pairs of symbol letters and values, I was able to utilize and apply them to the rows and columns of the slots. With the random library included, I was able to mimic the randomness that slots produce when they are spun each time.
 
 To see how you can add code snippets, see below:
 
@@ -62,7 +60,7 @@ def print_slot_machine(columns):
 
 ### Continued development
 
-In future projects, I would focus on the concept of nested for loops as I had some issues with it during the start of my build when trying to connect the rows and columns of the slots. I would also want to see how I can further optimize my code and implement object oriented programming practices.
+In future projects, I would focus on the concept of nested for loops as I had some issues with it during the start of my build when trying to connect the rows and columns of the slots. I would also want to see how I can further optimize my code and implement object-oriented programming practices.
 
 ## Author
 
