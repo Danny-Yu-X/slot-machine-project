@@ -43,8 +43,6 @@ Users should be able to:
 
 While working through this project, some of my major learnings were defining my own functions where each one played an essential component in how the game represented slots. By implementing dictionaries that contained key-value pairs of symbol letters and values, I was able to utilize and apply them to the rows and columns of the slots. With the random library included, I was able to mimic the randomness that slots produce when they are spun each time.
 
-To see how you can add code snippets, see below:
-
 ```python
 def print_slot_machine(columns):
   for row in range(len(columns[0])):
